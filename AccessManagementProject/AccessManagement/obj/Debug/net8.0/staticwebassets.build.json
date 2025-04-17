@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TlE+pltQhfxVGkUxIsGON/giQ8G3AjBiNpQN2coTWyo=",
+  "Source": "AccessManagement",
+  "BasePath": "_content/AccessManagement",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

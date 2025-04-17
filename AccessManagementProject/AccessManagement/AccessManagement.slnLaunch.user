@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AccessManagement.csproj",
+        "Action": "Start",
+        "DebugTarget": "http2"
+      },
+      {
+        "Path": "..\\AccessManagementFrontend\\AccessManagementFrontend.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

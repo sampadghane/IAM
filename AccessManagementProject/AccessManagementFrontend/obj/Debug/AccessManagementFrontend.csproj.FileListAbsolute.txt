@@ -1,0 +1,155 @@
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.AssemblyReference.cache
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.LoginPage.resources
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.Properties.Resources.resources
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.GenerateResource.cache
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.CoreCompileInputs.cache
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.exe.config
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.exe
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.pdb
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessMa.A93BB8E6.Up2Date
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.exe
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.pdb
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.UserDashboard.resources
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ChangePassword.resources
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.CreateUser.resources
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.LogsForm.resources
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ProfilePage.resources
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ChnageUserPassword.resources
+C:\Users\pranav.phatale\source\repos\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.DeleteUserForm.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.exe.config
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.exe
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.pdb
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.AssemblyReference.cache
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ChangePassword.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ChnageUserPassword.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.CreateUser.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.DeleteUserForm.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ProfilePage.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.LoginPage.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.LogsForm.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.Properties.Resources.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.UserDashboard.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.GenerateResource.cache
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.CoreCompileInputs.cache
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessMa.A93BB8E6.Up2Date
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.exe
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.pdb
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.OTPForm.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.PasswordReset.resources
+C:\Users\samir.padghane\Desktop\IAM(Main)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.SendMail.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.exe.config
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.exe
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.pdb
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.AssemblyReference.cache
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ChangePassword.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ChnageUserPassword.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.CreateUser.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.DeleteUserForm.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.OTPForm.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.PasswordReset.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ProfilePage.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.LoginPage.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.LogsForm.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.Properties.Resources.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.SendMail.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.UserDashboard.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.GenerateResource.cache
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.CoreCompileInputs.cache
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessMa.A93BB8E6.Up2Date
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.exe
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.pdb
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.security_que.resources
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\Google.Protobuf.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\MySql.Data.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Buffers.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.IO.Pipelines.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Memory.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\ZstdSharp.dll
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\Google.Protobuf.pdb
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\Google.Protobuf.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\MySql.Data.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Buffers.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.IO.Pipelines.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Memory.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samir.padghane\Desktop\IAM3(Triel)\AccessManagementFrontend\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.exe.config
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.exe
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\AccessManagementFrontend.pdb
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\Google.Protobuf.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\MySql.Data.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\Newtonsoft.Json.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Buffers.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.IO.Pipelines.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Memory.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\ZstdSharp.dll
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\Google.Protobuf.pdb
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\Google.Protobuf.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\MySql.Data.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\Newtonsoft.Json.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Buffers.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.IO.Pipelines.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Memory.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.AssemblyReference.cache
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ChangePassword.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ChnageUserPassword.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.CreateUser.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.DeleteUserForm.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.OTPForm.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.PasswordReset.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.ProfilePage.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.LoginPage.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.LogsForm.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.Properties.Resources.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.security_que.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.SendMail.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.UserDashboard.resources
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.GenerateResource.cache
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.csproj.CoreCompileInputs.cache
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessMa.A93BB8E6.Up2Date
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.exe
+C:\Users\samir.padghane\Desktop\IAM1(OG) -triel\AccessManagementFrontend\obj\Debug\AccessManagementFrontend.pdb
